@@ -1,0 +1,12 @@
+name: TitleManager
+version: 1.5.2
+author: Puharesource
+
+main: io.puharesource.mc.titlemanager.TitleManager
+softdepend: [Vault, Essentials, VanishNoPacket, EZRanksLite]
+
+commands:
+  tm:
+    description: TitleManager commands.
+    usage: /tm
+    aliases: [titlemanager]
